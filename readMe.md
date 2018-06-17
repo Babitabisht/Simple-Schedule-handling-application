@@ -1,0 +1,1 @@
+This is a simple javasvript ToDo Application , which add our tasks or toDo's to this  application and remove the task which has already done 

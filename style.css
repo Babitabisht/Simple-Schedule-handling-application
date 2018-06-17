@@ -1,0 +1,14 @@
+body{
+background: url(bench.jpg) no-repeat center center fixed ;
+background-size: cover;
+}
+
+.aa{
+
+opacity: 0.8;
+}
+
+
+.a{
+    margin:20px;
+}
